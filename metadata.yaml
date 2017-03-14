@@ -1,5 +1,8 @@
 _repo: Siege-of-Washington-DC-written-expressly-for-little-people_4668
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Adams, F. Colburn (Francis Colburn)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1538
     wikipedia: http://en.wikipedia.org/wiki/Francis_Colburn_Adams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4668#Siege-of-Washington-DC-written-expressly-for-little-people
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
