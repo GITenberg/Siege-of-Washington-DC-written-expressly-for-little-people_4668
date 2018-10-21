@@ -1,5 +1,5 @@
 _repo: Siege-of-Washington-DC-written-expressly-for-little-people_4668
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcc 'E456'
 - !lcsh 'United States -- History -- Civil War, 1861-1865 -- Caricatures and cartoons'
 - !lcsh 'Washington (D.C.) -- History -- Civil War, 1861-1865'
+- GITenberg
 title: Siege of Washington, D.C., written expressly for little people
 url: http://www.gutenberg.org/ebooks/4668
